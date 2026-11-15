@@ -28,8 +28,19 @@ A project management app where teams can create workspaces, manage tasks with Ka
 
 ---
 
+## Task 3 - Single-Vendor Fashion E-Commerce Platform (HILAARA)
+
+**Folder:** `Task3_EcommercePlatform/`
+
+A single-vendor luxury fashion e-commerce platform purpose-built for the Somali market. Features curated men's and women's apparel, Somali mobile money checkout (EVC Plus, eDahab, ZAAD, Pay on Delivery), nationwide logistics, dynamic cart, wishlist, and an executive administration command center.
+
+**Stack:** React 18, Vite, Tailwind CSS, Supabase PostgreSQL, Netlify Functions, ImageKit CDN
+
+---
+
 ## Author
 
 **Abdalle Hussein**
 GitHub: [@Abdalle13](https://github.com/Abdalle13)
 Email: abdallehussein8@gmail.com
+
