@@ -1,0 +1,2 @@
+/api/*    https://veyra-nine-eosin.vercel.app/api/:splat    200!
+/*        /index.html                                       200
